@@ -1,0 +1,67 @@
+.text{
+    color: #fff;
+}
+
+.buy-btn{
+    display: inline-block;
+    border: solid 1px;
+    font-size: 14px;
+    font-weight: 600;
+    min-width: 167px;
+    padding: 14px 47px 14px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.buy-btn:hover{
+    color: #fff;
+}
+
+.inquire-btn{
+    color:#000;
+    background-color: #fff;
+    display: inline-block;
+    border: solid 1px;
+    font-size: 14px;
+    font-weight: 600;
+    min-width: 167px;
+    padding: 14px 47px 14px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+.inquire-btn:hover{
+    color: #000;
+}
+
+.slider-top {
+    padding: 20px 25px;
+    text-align: center;
+    background-color: #f8f8f8;
+}
+
+.slider-top a{
+    text-decoration: none;
+    color: #000;
+}
+
+.slider-top-2{
+    background-color: #f51167;
+}
+
+.slider-top-2 a{
+    color: #fff;
+}
+
+.slider-top:hover a{
+    cursor: text;
+    color: #000;
+}
+
+.slider-top-2:hover a{
+    color: #fff;
+}

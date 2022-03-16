@@ -1,0 +1,40 @@
+.banner-row{
+    padding: 50px 34px 47px;
+    position: relative;
+    margin-bottom: 40px;
+    border-left: 5px solid #fff;
+    border-right: 5px solid #fff;
+    border-radius: 1rem;
+}
+
+.set-bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+.banner-row .tag-sale{
+    position: absolute;
+    right: 25px;
+    top: 25px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    background: #f51167;
+    line-height: 1;
+    padding: 5px 9px 5px;
+    width: 42px;
+}
+
+.banner-row .tag-new{
+    position: absolute;
+    right: 25px;
+    top: 25px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    background: #50e550;
+    line-height: 1;
+    padding: 5px 7px 5px;
+    width: 42px;
+}
